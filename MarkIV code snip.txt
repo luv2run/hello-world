@@ -1,0 +1,20 @@
+//SYSIN    DD  *
+ENRO    RCRAR$CS2KS     S    T
+ENRO    RFIBMSSNO SM4CORD1
+ENRO    RFM4SUBF1 SM4SUBF1
+ENRO    RFM4SUBF2 SM4SUBF2
+PROCESS ERTODAY
+PROCESS TFUUID      9C                      UUID
+PROCESS TFUFID      8C                      UFID
+PROCESS TFNA25     25C                      NAME
+PROCESS TFNAME     25C                      NAME
+PROCESS TFFNAM     20C                      F NAME
+PROCESS TFMNAM     20C                      M NAME
+PROCESS TFLNAM     20C                      L NAME
+PROCESS TFMATD      4C                      MATRIC
+PROCESS TFCREG      1C                      REG
+PROCESS TFCTE3      3C                      TRM
+PROCESS TFCCOL      2C                      COLLEGE
+PROCESS TFCCCO      3C                      CL/CO
+PROCESS TFCMAJ      3C                      MAJOR
+PROCESS TFCSPG      3C                      TRACK
